@@ -26,6 +26,8 @@ A [zero-day (also known as a 0-day)](https://en.wikipedia.org/wiki/Zero-day_(com
 - Until the vulnerability is mitigated, hackers can exploit it to adversely affect programs, data, additional computers or a network.
 - An exploit taking advantage of a zero-day is called a zero-day exploit, or zero-day attack.
 
+Software vendors continuously search for overlooked vulnerabilities and upon discovering such, issue a code fix also known as ‘patch’. However, a zero-day vulnerability is a software weakness that is found by attackers before the vendor has discovered the flaw.
+
 
 **[`^        back to top        ^`](#)**
 
