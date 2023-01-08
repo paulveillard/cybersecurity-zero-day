@@ -28,6 +28,15 @@ Software vendors continuously search for overlooked vulnerabilities and upon dis
 
 ![zero-day-timeline](https://github.com/paulveillard/cybersecurity-zero-day/blob/main/img/Zero-Day-Timeline.png)
 
+From time to time, vulnerabilities are discovered in computing systems. These vulnerabilities represent security holes that allow attackers to gain unauthorized access to, damage or compromise a system. Known vulnerabilities are documented in public repositories such as the National Vulnerability Database (NVD).
+
+Both software vendors and independent security researchers are constantly on the lookout for new vulnerabilities in software products. When a vulnerability is discovered, it is the software vendor’s responsibility to quickly issue a patch that addresses the security issue – users of the software can then install the patch to protect themselves.
+
+- A zero-day (or 0-day) attack is a software vulnerability exploited by attackers before the vendor has become aware of it. At that point, no patch exists, so attackers can easily exploit the vulnerability knowing that no defenses are in place. This makes zero-day vulnerabilities a severe security threat.
+
+![zero-day lifecycle](https://github.com/paulveillard/cybersecurity-zero-day/blob/main/img/what-is-zero-day-exploit-bg-2.jpg)
+
+- Once attackers identify a zero day vulnerability, they need a delivery mechanism to reach the vulnerable system. In many cases the delivery mechanism is a socially engineered email – an email or other message that is supposedly from a known or legitimate correspondent, but is actually from an attacker. The message tries to convince a user to perform an action like opening a file or visiting a malicious website, unwittingly activating the exploit.
 
 
 
