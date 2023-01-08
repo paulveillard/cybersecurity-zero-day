@@ -56,6 +56,8 @@ Even after a patch is developed, users must still update their systems. If they 
 
 ## The Zero-Day Market
 
+## Zero-Day Attack Protection with Cynet
+
 **[`^        back to top        ^`](#)**
 
 ## License
