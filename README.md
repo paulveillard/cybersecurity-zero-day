@@ -5,7 +5,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## Table of Contents
 
-- [What is a Zero-Day Attack?](#)
+- [What is a Zero-Day Attack?](#what-is-a-zero-day-attack-exploit)
 - What Is a Zero-Day Exploit and Why Is it Dangerous?
 - Anatomy of a Zero-Day Attack
 - Who are the Attackers?
@@ -38,6 +38,21 @@ Both software vendors and independent security researchers are constantly on the
 
 - Once attackers identify a zero day vulnerability, they need a delivery mechanism to reach the vulnerable system. In many cases the delivery mechanism is a socially engineered email – an email or other message that is supposedly from a known or legitimate correspondent, but is actually from an attacker. The message tries to convince a user to perform an action like opening a file or visiting a malicious website, unwittingly activating the exploit.
 
+## What Is a Zero-Day Exploit and Why Is it Dangerous?
+
+A zero-day exploit is when an attacker leverages a zero-day vulnerability to attack a system. These exploits are especially dangerous because they are more likely to be successful than attacks against established vulnerabilities. On day zero, when a vulnerability is made public, organizations have not yet had a chance to patch the vulnerability, making the exploit possible.
+
+Something that makes zero-day exploits even more dangerous is that some advanced cybercriminal groups use zero-day exploits strategically. These groups reserve zero-day exploits for use with high-value targets, such as medical or financial institutions, or government organizations. This reduces the chance that a vulnerability is discovered by the victim and can increase the lifespan of the exploit.
+
+Even after a patch is developed, users must still update their systems. If they don’t, attackers can continue to take advantage of a zero-day exploit until the system is patched
+
+## Anatomy of a Zero-Day Attack
+
+## Who are the Attackers?
+
+## Zero-Day Vulnerability Trends
+
+## Examples of Zero-Day Attacks
 
 
 **[`^        back to top        ^`](#)**
