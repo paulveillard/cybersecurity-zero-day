@@ -26,6 +26,7 @@ A [zero-day (also known as a 0-day)](https://en.wikipedia.org/wiki/Zero-day_(com
 
 Software vendors continuously search for overlooked vulnerabilities and upon discovering such, issue a code fix also known as ‘patch’. However, a zero-day vulnerability is a software weakness that is found by attackers before the vendor has discovered the flaw.
 
+![zero-day-timeline](https://github.com/paulveillard/cybersecurity-zero-day/blob/main/img/Zero-Day-Timeline.png)
 
 
 
