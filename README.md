@@ -14,7 +14,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - Examples of Zero-Day Attacks
 - The Zero-Day Market
 - Zero Day Protection and Prevention
-- Zero-Day Attack Protection with Cynet
+- Zero-Day Attack Protection with [Cynet](https://www.cynet.com/zero-day-attacks/zero-day-vulnerabilities-exploits-and-attacks-a-complete-glossary/)
 
 ## What is a Zero-Day Attack (Exploit)?
 
