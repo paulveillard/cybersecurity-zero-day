@@ -16,8 +16,6 @@ An ongoing & curated collection of awesome software best practices and technique
 - Zero Day Protection and Prevention
 - Zero-Day Attack Protection with Cynet
 
-
-
 ## What is a Zero-Day Attack (Exploit)?
 
 ![zero-day](https://github.com/paulveillard/cybersecurity-zero-day/blob/main/img/zero-day-attack-1.jpg)
@@ -27,6 +25,9 @@ A [zero-day (also known as a 0-day)](https://en.wikipedia.org/wiki/Zero-day_(com
 - An exploit taking advantage of a zero-day is called a zero-day exploit, or zero-day attack.
 
 Software vendors continuously search for overlooked vulnerabilities and upon discovering such, issue a code fix also known as ‘patch’. However, a zero-day vulnerability is a software weakness that is found by attackers before the vendor has discovered the flaw.
+
+
+
 
 
 **[`^        back to top        ^`](#)**
