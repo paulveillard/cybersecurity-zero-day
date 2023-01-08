@@ -54,6 +54,7 @@ Even after a patch is developed, users must still update their systems. If they 
 
 ## Examples of Zero-Day Attacks
 
+## The Zero-Day Market
 
 **[`^        back to top        ^`](#)**
 
